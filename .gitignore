@@ -1,0 +1,6 @@
+/venv/
+/ProPainter/
+/GroundingDINO/
+weights/*
+videos/*
+ProPainterProject.ipynb
